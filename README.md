@@ -15,10 +15,12 @@ then the sequence produced eventually converges (collapses) to 1, irrespective o
 
 For example, lets select the integer 11 as our starting value. Then if we apply the above rules we generate the sequence:
 
-11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1
+  11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1
+
 Let's try another number, say 3412. The sequence generated is:
 
-3412, 1706, 853, 2560, 1280, 640, 320, 160, 80, 40, 20, 10, 5, 16, 8, 4, 2, 1
+  3412, 1706, 853, 2560, 1280, 640, 320, 160, 80, 40, 20, 10, 5, 16, 8, 4, 2, 1
+
 It will work like this for any positive integer you select! Remarkable.
 
 At this point in time the Collatz Conjecture has not been proven for all positive integers. At the surface, the conjecture appears simple enough, but it has very deep roots into number theory and has challenged many great mathematicians since it was first proposed by Lothar Collatz in 1937. There is much on the internet about Lothar Collatz and his conjecture and if your interest is sparked then do a little research - you will soon discover its hidden complexities!
