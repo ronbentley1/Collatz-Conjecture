@@ -73,6 +73,7 @@ void setup() {
   Serial.begin(9600);
   Serial.println("Collatz Conjecture Examples");
   Serial.println("^^^^^^^^^^^^^^^^^^^^^^^^^^^");
+  Serial.println("Enter any positive integer and press return/send");
 }
 
 void loop() {
