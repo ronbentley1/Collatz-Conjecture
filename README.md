@@ -27,7 +27,7 @@ At this point in time the Collatz Conjecture has not been proven for all positiv
 
 For this article, though, we are simply concerned with using an Arduino microcontroller to run a short program that produces the Collatz sequence for any given user provided positive integer. Other than plugging in a microcontroller to a pc running your IDE and opening the serial monitor that is all there is to configure. Any Arduino microcontroller should be suitable.
 
-So load up and try a few positive integers, small or large. I think you will be surprised how some small numbers produce long sequences and how some large numbers short one. After you have tried a few you will notice something common to all sequences in how the converge to produce 1.
+So load up and try a few positive integers, small or large. I think you will be surprised how some small numbers produce long sequences and how some large numbers short ones. After you have tried a few you will notice something common to all sequences in how the converge to produce 1.
 
 # Set Up
 Set up couldn't be simpler:
